@@ -1,4 +1,4 @@
-# taskmaster-pro# taskmaster-pro
+# taskmaster-pro
 
 ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
 
