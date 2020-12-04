@@ -272,6 +272,7 @@ $('#modalDueDate').datepicker({
 
 // DUE DATE INDICATIONS
 var auditTask = function(taskEl) {
+  // console.log(taskEl)
   // get date from task element
   var date = $(taskEl).find('span').text().trim();
 
